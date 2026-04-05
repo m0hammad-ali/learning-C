@@ -1,0 +1,22 @@
+# Compiled Executables (Windows)
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug symbols and IDE specific
+.vscode/
+.vs/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows specific
+Thumbs.db
+desktop.ini
